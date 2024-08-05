@@ -2,6 +2,24 @@
 
 Your challenge is to build out this job listing page and get it looking as close to the design as possible with Dart and Flutter.
 
+## Instructions
+
+1. **Clone the Repository**: Please clone this repository to your own GitHub account, make it public, and share the link with us via email upon completion.
+
+2. **Design Resources**: 
+   - Check the `design` folder for images.
+   - You can also refer to the Figma design here: [Figma Link](https://www.figma.com/design/AS6WyqAN7sTOrA6Jhpqf9w/Awais?node-id=0-1&t=dqecBG1QKp6xaFMq-1).
+
+3. **Style Guide**: Review the `style-guide.md` file for all the values and style information you need to follow.
+
+It's important that you adhere to these instructions.
+
+### Priority Tasks (in order of importance):
+1. **Pixel-Perfect Mobile Design**.
+2. **Functionality of Filters**.
+3. **Pixel-Perfect Desktop Design**.
+4. **Desktop Functionality**.
+
 ### Brief
 
 Your challenge is to build out this job listing page and get it looking as close to the design as possible.
@@ -32,10 +50,9 @@ To add a filter, the user needs to click on the tablets on the right-side of the
 
 Make sure to include all source code in the repository. 
 
-### CodeSubmit
 
 Please organize, design, test and document your code as if it were going into production - then push your changes to the master branch. After you have pushed your code, you may submit the assignment on the assignment page.
 
 All the best and happy coding,
 
-The Blackbook AI Tech Team
+Coded Harmony
